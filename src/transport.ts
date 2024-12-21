@@ -2,6 +2,7 @@ import * as Sentry from "@sentry/bun";
 import TransportStream from "winston-transport";
 import { LEVEL } from "triple-beam";
 
+export const getDefaultIntegrations = Sentry.getDefaultIntegrations;
 enum SentrySeverity {
   Debug = "debug",
   Log = "log",

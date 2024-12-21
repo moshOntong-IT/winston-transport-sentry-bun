@@ -1,7 +1,7 @@
 {
   "name": "@moshontong/winston-transport-sentry-bun",
   "description": "@sentry/bun transport for the winston v3 logger",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0-rc.2",
   "author": "Mosh Ontong <moshontong@gmail.com>",
   "keywords": [
     "logger",
